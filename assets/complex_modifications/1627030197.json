@@ -1,8 +1,8 @@
 {
-	"title": "Caps Lock → Hyper Key (⌃⌥⇧⌘) (Caps Lock if alone)",
+	"title": "Caps Lock → Windows Key (⌃⇧⌘) (Caps Lock if alone)",
 	"rules": [
 		{
-			"description": "Caps Lock → Hyper Key (⌃⌥⇧⌘) (Caps Lock if alone)",
+			"description": "Caps Lock → Windows Key (⌃⇧⌘) (Caps Lock if alone)",
 			"manipulators": [
 				{
 					"from": {
@@ -13,8 +13,7 @@
 							"key_code": "left_shift",
 							"modifiers": [
 								"left_command",
-								"left_control",
-								"left_option"
+								"left_control"
 							]
 						}
 					],
